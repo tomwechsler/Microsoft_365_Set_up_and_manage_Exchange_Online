@@ -1,13 +1,13 @@
 Set-Location C:\
 Clear-Host
 
-#We need the module (without the parameter for a specific version)
+#We need the module
 Install-Module -Name ExchangeOnlineManagement -AllowClobber -Force -Verbose
 
 #Let's import the module
 Import-Module ExchangeOnlineManagement
 
-#Check the version (if you have not selected a version)
+#Check the version
 Get-InstalledModule -Name ExchangeOnlineManagement
 
 #Now we connect to Exchange Online
