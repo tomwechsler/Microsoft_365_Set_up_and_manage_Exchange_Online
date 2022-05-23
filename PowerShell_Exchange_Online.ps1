@@ -13,11 +13,15 @@ Get-InstalledModule -Name ExchangeOnlineManagement
 #Now we connect to Exchange Online
 Connect-ExchangeOnline
 
-#To see the values of these organizational limits
+
+#Configure the external postmaster address in Exchange Online
+#Let's look at the values of the Organization
 Get-TransportConfig | Format-List
 
+#Is there a value at ExternalPostmasterAddress
 Get-TransportConfig | Select-Object ExternalPostmasterAddress
 
+#No value means that the postmaster address is used
 (Get-TransportConfig).ExternalPostmasterAddress
 
 #This example sets the external postmaster address to the value:support@cloudgrid.ch
