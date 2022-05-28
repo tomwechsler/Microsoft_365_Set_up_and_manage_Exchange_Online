@@ -14,6 +14,17 @@ Get-InstalledModule -Name ExchangeOnlineManagement
 Connect-ExchangeOnline
 
 
+#Use the New-DistributionGroup cmdlet to create distribution groups and mail-enabled security groups.
+#This example creates a mail-enabled security group named Managers without specifying any members
+New-DistributionGroup -Name "Managers" -Type "Security"
+
+#This example creates a distribution group named ITDepartment and specifies the members.
+New-DistributionGroup -Name "ITDepartment" -Members chris@cloudgrid.ch,michelle@cloudgrid.ch,laura@cloudgrid.ch,julia@cloudgrid.ch
+
+#The IgnoreNamingPolicy switch specifies whether to prevent this group from being affected by your organization's group naming policy
+New-DistributionGroup -Name "Verteiler-Alle" -IgnoreNamingPolicy
+
+
 #Configure the external postmaster address in Exchange Online
 #Let's look at the values of the Organization
 Get-TransportConfig | Format-List
