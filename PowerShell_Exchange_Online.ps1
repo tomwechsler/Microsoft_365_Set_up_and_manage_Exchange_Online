@@ -13,6 +13,9 @@ Get-InstalledModule -Name ExchangeOnlineManagement
 #Now we connect to Exchange Online
 Connect-ExchangeOnline
 
+#This example gets the configuration information for the cloud-based organization.
+Get-OrganizationConfig | Export-CliXML C:\Data\MyFile.xml
+
 
 #Use the New-DistributionGroup cmdlet to create distribution groups and mail-enabled security groups.
 #This example creates a mail-enabled security group named Managers without specifying any members
