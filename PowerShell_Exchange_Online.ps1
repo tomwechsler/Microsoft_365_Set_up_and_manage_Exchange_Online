@@ -13,7 +13,10 @@ Get-InstalledModule -Name ExchangeOnlineManagement
 #Now we connect to Exchange Online
 Connect-ExchangeOnline
 
-#This example gets the configuration information for the cloud-based organization.
+#Use the Get-OrganizationConfig cmdlet to get configuration data for an Exchange organization
+Get-OrganizationConfig
+
+#Exporting the organization data to an XML file
 Get-OrganizationConfig | Export-CliXML C:\Data\MyFile.xml
 
 
