@@ -22,6 +22,9 @@ https://docs.microsoft.com/de-de/office365/servicedescriptions/exchange-online-s
 
 https://docs.microsoft.com/de-de/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits
 
+**Configuration**
+------------------
+
 https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/concept-fundamentals-security-defaults
 
 https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email?view=o365-worldwide
