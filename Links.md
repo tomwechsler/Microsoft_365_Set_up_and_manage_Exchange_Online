@@ -16,11 +16,11 @@ https://www.microsoft.com/en-us/licensing/product-licensing/microsoft-365-enterp
 **Services**
 ------------
 
-https://docs.microsoft.com/de-de/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options
+https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options
 
-https://docs.microsoft.com/de-de/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description
+https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description
 
-https://docs.microsoft.com/de-de/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits
+https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits
 
 **Configuration**
 ------------------
@@ -55,3 +55,13 @@ https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/concept-fun
 https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email?view=o365-worldwide
 
 https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/spam-confidence-levels?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/configure-your-spam-filter-policies?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/configure-anti-malware-policies?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/set-up-anti-phishing-policies?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/safe-links?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/safe-attachments?view=o365-worldwide
