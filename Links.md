@@ -1,3 +1,5 @@
+**Licensing**
+
 https://m365maps.com/
 
 https://o365.rocks/
@@ -9,6 +11,8 @@ https://www.microsoft.com/de-de/microsoft-365/enterprise/compare-office-365-plan
 https://www.microsoft.com/de-de/microsoft-365/compare-microsoft-365-enterprise-plans?market=de
 
 https://www.microsoft.com/de-de/licensing/product-licensing/microsoft-365-enterprise.aspx
+
+**Services**
 
 https://docs.microsoft.com/de-de/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options
 
