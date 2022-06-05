@@ -50,6 +50,8 @@ https://docs.microsoft.com/en-us/microsoft-365/admin/add-users/give-mailbox-perm
 
 https://docs.microsoft.com/en-us/exchange/standalone-eop/best-practices-for-configuring-eop
 
+https://docs.microsoft.com/en-us/microsoft-365/admin/security-and-compliance/secure-your-business-data?view=o365-worldwide
+
 https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/recommended-settings-for-eop-and-office365?view=o365-worldwide
 
 https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/concept-fundamentals-security-defaults
