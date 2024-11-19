@@ -66,6 +66,8 @@ https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/conf
 
 https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/set-up-anti-phishing-policies?view=o365-worldwide
 
+https://learn.microsoft.com/en-us/defender-office-365/anti-spam-policies-configure
+
 https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/safe-links?view=o365-worldwide
 
 https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/safe-attachments?view=o365-worldwide
